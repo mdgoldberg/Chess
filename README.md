@@ -1,0 +1,1 @@
+The actual program is within the Board.java class.  To play the game, run `javac Board.java; java Board`.
